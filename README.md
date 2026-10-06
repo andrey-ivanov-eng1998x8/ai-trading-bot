@@ -7,4 +7,4 @@ I got tired of checking trading apps so I built this. It polls Yahoo Finance for
 pip install -r requirements.txt
 
 
-<!-- verified: 2026-10-05 -->
+<!-- verified: 2026-10-06 -->
